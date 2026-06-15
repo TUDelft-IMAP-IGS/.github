@@ -1,18 +1,16 @@
 # TUDelft-IMAP-IGS
 
-**Preference-Based Optimisation — IMAP Inter-Generational Solver (IGS) Framework**
+**Preference-Based Optimisation - IMAP Inter-Generational Solver (IGS) Framework**
 
 ---
 
 ## About
 
-The open-source **Preferendus** software package for preference-based optimisation — used for all IMAP demonstrators in the ODESYS book — is publicly available via the GitHub repository: https://github.com/TUDelft-Odesys.
+The open-source **Preferendus** software package for preference-based optimisation - used for all IMAP demonstrators in the ODESYS book - is publicly available via the GitHub repository: https://github.com/TUDelft-Odesys.
 
 The results of the first demonstrator presented in the associated paper (the floating wind farm) are described in Chapter 8.5 of the ODESYS book and can also be accessed through the same GitHub repository. Furthermore, an extended stochastic variant of this design–decision example is available at: https://github.com/Boskalis-python/ODYCON.
 
-A contemporary and further extended implementation of the **Preferendus** framework, incorporating multiple **Inter-Generational Solver (IGS)** instantiations such as IGS-GA-I, IGS-GA-II, IGS-BRKGA, and IGS-SI, is available here at: https://github.com/TUDelft-IMAP-IGS.
-
-In particular, the **IGS-BRKGA** instantiation is used for the second demonstrator (dynamic vessel allocation — AlloDyn). The corresponding results are subject to confidentiality constraints and are available upon reasonable request.
+A contemporary and further extended implementation of the **Preferendus** framework, incorporating multiple **Inter-Generational Solver (IGS)** instantiations such as IGS-GA-I, IGS-GA-II, IGS-BRKGA, and IGS-SI, is available here.
 
 ---
 
