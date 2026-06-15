@@ -8,7 +8,7 @@
 
 This is the home of the **IMAP Inter-Generational Solver (IGS)** framework - a collection of preference-based optimisation solvers built on the IMAP (Integrative Maximisation of Aggregated Preferences) aggregator. The organisation hosts four repositories, each a distinct IGS instantiation targeting different problem classes: **IGS-GA-I**, **IGS-GA-II**, **IGS-BRKGA**, and **IGS-SI**.
 
-Earlier work, including the original open-source **Preferendus** package and the first IMAP demonstrator (floating wind farm, described in Chapter 8.5 of the ODESYS book), can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys). An extended stochastic variant of that demonstrator is available at [Boskalis-python/ODYCON](https://github.com/Boskalis-python/ODYCON).
+Earlier work, including the original open-source **Preferendus** package and the first IMAP demonstrator (floating wind farm, described in Chapter 8.5 of the ODESYS book), can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
 
 ---
 
