@@ -39,7 +39,7 @@ All IGS solvers share the same **IMAP (Integrative Maximisation of Aggregated Pr
 
 Because normalisation is pool-relative, IMAP scores are generation-specific.
 
-For an overview of how IMAP relates to other optimisation methods (MILP, MINLP, Pareto/evolutionary approaches), see [`Optimisation landscape.pdf`](./Optimisation_landscape.pdf) included in this repository. For full terminology and formal definitions, see [`IMAP-IGS terminology.pdf`](./IMAP-IGS_terminology.pdf).
+For an overview of how IMAP relates to other optimisation methods (MILP, MINLP, Pareto/evolutionary approaches), see [`Optimisation landscape.pdf`](./Optimisation_landscape.pdf) included in this repository. For full terminology and formal definitions, see [`TUDelft-IMAP-IGS_overview.pdf`](./TUDelft-IMAP-IGS_overview.pdf).
 
 [![Optimisation landscape](./Optimisation_landscape.jpg)](./Optimisation_landscape.pdf)
 
