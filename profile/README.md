@@ -60,6 +60,6 @@ For full terminology and formal definitions, see [`TUDelft-IMAP-IGS_overview.pdf
 
 ## License
 
-This project is licensed under the **MIT License** — see the [`LICENSE`](./LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [`LICENSE`](./LICENSE) file for details.
 
 Copyright (c) 2026 TUDelft-IMAP-IGS Contributors
