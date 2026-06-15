@@ -41,6 +41,8 @@ Because normalisation is pool-relative, IMAP scores are generation-specific.
 
 For an overview of how IMAP relates to other optimisation methods (MILP, MINLP, Pareto/evolutionary approaches), see [`Optimisation_landscape.pdf`](./Optimisation_landscape.pdf) included in this repository. For full terminology and formal definitions, see [`IMAP-IGS_terminology.pdf`](./IMAP-IGS_terminology.pdf).
 
+[![Optimisation landscape](./Optimisation_landscape.jpg)](./Optimisation_landscape.pdf)
+
 ---
 
 ## References
