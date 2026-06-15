@@ -6,9 +6,9 @@
 
 ## About
 
-This is the home of the **IMAP Inter-Generational Solver (IGS)** framework - a collection of preference-based optimisation solvers built on the IMAP (Integrative Maximisation of Aggregated Preferences) aggregator. The organisation hosts four repositories, each a distinct IGS instantiation targeting different problem classes: **IGS-GA-I**, **IGS-GA-II**, **IGS-BRKGA**, and **IGS-SI**.
+This is the home of the **IMAP Inter-Generational Solver (IGS)** framework - a collection of preference-based optimisation solvers built on the IMAP (Integrative Maximisation of Aggregated Preferences) aggregator. The page hosts four repositories, each a distinct IGS instantiation targeting different problem classes: **IGS-GA-I**, **IGS-GA-II**, **IGS-BRKGA**, and **IGS-SI**.
 
-Earlier work, including the original open-source **Preferendus** package and the first IMAP demonstrator (floating wind farm, described in Chapter 8.5 of the ODESYS book), can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
+Earlier work, including the original open-source **Preferendus** package and the first IMAP demonstrator, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
 
 ---
 
@@ -30,16 +30,9 @@ A **Swarm Intelligence (SI)** instantiation of the IMAP-IGS framework, targeting
 
 ## Framework Overview
 
-All IGS solvers share the same **IMAP (Integrative Maximisation of Aggregated Preferences)** aggregator:
+A description of all principles of IMAP, the full terminology and formal definitions can be found at [`TUDelft-IMAP-IGS_overview.pdf`](./TUDelft-IMAP-IGS_overview.pdf).
 
-1. Raw objective values are converted into preference scores (0-100) via stakeholder-defined preference functions.
-2. Scores are Z-score-normalised across the current candidate pool.
-3. A weighted sum P\* is computed over all criteria and stakeholders.
-4. P\* is min-max-scaled to [0, 100] to produce the final ranking.
-
-Because normalisation is pool-relative, IMAP scores are generation-specific.
-
-For an overview of how IMAP relates to other optimisation methods (MILP, MINLP, Pareto/evolutionary approaches), see [`Optimisation landscape.pdf`](./Optimisation_landscape.pdf) included in this repository. For full terminology and formal definitions, see [`TUDelft-IMAP-IGS_overview.pdf`](./TUDelft-IMAP-IGS_overview.pdf).
+For an overview of how IMAP relates to other optimisation methods (MILP, MINLP, Pareto/evolutionary approaches), see [`Optimisation landscape.pdf`](./Optimisation_landscape.pdf) included in this repository.
 
 [![Optimisation landscape](./Optimisation_landscape.jpg)](./Optimisation_landscape.pdf)
 
