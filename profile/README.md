@@ -53,8 +53,8 @@ For an overview of how IMAP relates to other optimisation methods (MILP, MINLP, 
 - Woflert, A.R.M. (Rogier) (2026). *Unique Preference Aggregation in Design and Decision Making*. TU Delft.
   https://doi.org/10.48550/arXiv.2601.19759
 
-- Teuber et al. (2025). *ODYCON — Stochastic design-decision extension.*  
-  Repository: https://github.com/Boskalis-python/ODYCON
+- Timp, L.J.K. (Lennard). *Solving Highly Constrained Multi-Objective Decision Problems with Preference-Guided Metaheuristics: The IMAP-IGS Framework*
+  To be published.
 
 ---
 
