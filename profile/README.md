@@ -43,7 +43,7 @@ All IGS solvers share the same **IMAP (Integrative Maximisation of Aggregated Pr
 
 Because normalisation is pool-relative, IMAP scores are generation-specific — this is a deliberate design property that drives diversity-preserving selection.
 
-For full terminology and formal definitions, see [`IMAP-IGS_terminology.pdf`](./IMAP-IGS_terminology.pdf) included in this repository.
+For full terminology and formal definitions, see [`TUDelft-IMAP-IGS_overview.pdf`](./TUDelft-IMAP-IGS_overview.pdf) included in this repository.
 
 ---
 
