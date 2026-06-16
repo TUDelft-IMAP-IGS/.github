@@ -1,4 +1,4 @@
-# TUDelft-IMAP-IGS
+# Preferendus-IMAP-IGS
 
 **Preference-Based Optimisation - IMAP Inter-Generational Solver (IGS) Framework**
 
@@ -6,9 +6,9 @@
 
 ## About
 
-This is the home of the **IMAP Inter-Generational Solver (IGS)** framework - a collection of preference-based optimisation solvers built on the IMAP (Integrative Maximisation of Aggregated Preferences) aggregator. The page hosts four repositories, each a distinct IGS instantiation targeting different problem classes: **IGS-GA-I**, **IGS-GA-II**, **IGS-BRKGA**, and **IGS-SI**.
+This is the home of the **Preferendus** framework and it's methods - a collection of preference-based optimisation solvers using IMAP (Integrative Maximisation of Aggregated Preferences). The page hosts four repositories, each a distinct IGS instantiation targeting different problem classes: **IGS-GA-I**, **IGS-GA-II**, **IGS-BRKGA**, and **IGS-SI**.
 
-Earlier work, including the original open-source **Preferendus** package and the first IMAP demonstrator, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
+Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
 
 ---
 
