@@ -6,7 +6,7 @@
 
 ## About
 
-This is the home of the **Preferendus** framework and it's methods - a collection of preference-based optimisation solvers using IMAP (Integrative Maximisation of Aggregated Preferences). The page hosts four repositories, each a distinct IGS instantiation targeting different problem classes: **IGS-GA-I**, **IGS-GA-II**, **IGS-BRKGA**, and **IGS-SI**.
+This is the home of **Preferendus** and it's method and solvers - a collection of preference-based optimisation solvers using the IMAP (Integrative Maximisation of Aggregated Preferences) method. The page hosts four repositories, each a distinct IGS instantiation targeting different problem classes: **IGS-GA-I**, **IGS-GA-II**, **IGS-BRKGA**, and **IGS-SI**.
 
 Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
 
@@ -32,7 +32,7 @@ A **Swarm Intelligence (SI)** instantiation of the IMAP-IGS framework, targeting
 
 A description of all principles of IMAP-IGS, the full terminology and formal definitions can be found at [`TUDelft-IMAP-IGS_overview.pdf`](./TUDelft-IMAP-IGS_overview.pdf).
 
-For an overview of how the IMAP design-decision optimisation relates to other optimisation methods (MILP or MIP) see [`Optimisation landscape.pdf`](./Optimisation_landscape.pdf) included in this repository.
+For an overview of how IMAP design-decision optimisation relates to other optimisation methods MILP and MIP, see [`Optimisation landscape.pdf`](./Optimisation_landscape.pdf) included in this repository. How IMAP relates to the min-max optimisation method can be found in (Wolfert, 2023 - [odesys.nl](https://odesys.nl/))
 
 [![Optimisation landscape](./Optimisation_landscape.jpg)](./Optimisation_landscape.pdf)
 
@@ -40,8 +40,8 @@ For an overview of how the IMAP design-decision optimisation relates to other op
 
 ## References
 
-- Wolfert, A.R.M. (Rogier) et al. (2023). *Open Design Systems (ODESYS)*. TU Delft.  
-  Repository: https://github.com/TUDelft-Odesys
+- Wolfert, A.R.M. (Rogier) et al. (2023). *Open Design Systems (ODESYS)*. IOS Press
+  [IOS Press Ebooks - Open Design Systems](https://doi.org/10.3233/RIDS10) (or [https://books.open.tudelft.nl/home/catalog/book/78](https://books.open.tudelft.nl/home/catalog/book/78))
 
 - Woflert, A.R.M. (Rogier) (2026). *Unique Preference Aggregation in Design and Decision Making*. TU Delft.
   https://doi.org/10.48550/arXiv.2601.19759
