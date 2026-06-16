@@ -30,9 +30,9 @@ A **Swarm Intelligence (SI)** instantiation of the IMAP-IGS framework, targeting
 
 ## Framework Overview
 
-A description of all principles of IMAP, the full terminology and formal definitions can be found at [`TUDelft-IMAP-IGS_overview.pdf`](./TUDelft-IMAP-IGS_overview.pdf).
+A description of all principles of IMAP-IGS, the full terminology and formal definitions can be found at [`TUDelft-IMAP-IGS_overview.pdf`](./TUDelft-IMAP-IGS_overview.pdf).
 
-For an overview of how IMAP relates to other optimisation methods (MILP, MINLP, Pareto/evolutionary approaches), see [`Optimisation landscape.pdf`](./Optimisation_landscape.pdf) included in this repository.
+For an overview of how the IMAP design-decision optimisation relates to other optimisation methods (MILP or MIP) see [`Optimisation landscape.pdf`](./Optimisation_landscape.pdf) included in this repository.
 
 [![Optimisation landscape](./Optimisation_landscape.jpg)](./Optimisation_landscape.pdf)
 
