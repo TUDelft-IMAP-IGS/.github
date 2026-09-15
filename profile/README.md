@@ -35,7 +35,7 @@ A description of all principles of IMAP-IGS, the full terminology and formal def
 For an overview of how IMAP design-decision optimisation relates to other optimisation methods MILP and MIP, see [`Optimisation landscape.pdf`](./Optimisation_landscape.pdf) included in this repository. How IMAP relates to the min-max optimisation method can be found in (Wolfert, 2023 - [odesys.nl](https://odesys.nl/))
 
 [![Optimisation landscape](./Optimisation_landscape.jpg)](./Optimisation_landscape.pdf)
-
+ 
 ---
 
 ## References
