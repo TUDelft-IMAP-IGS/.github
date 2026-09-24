@@ -26,7 +26,7 @@ A **Biased Random-Key Genetic Algorithm (BRKGA)** instantiation of the IMAP-IGS 
 ### [`IGS-SI`](https://github.com/TUDelft-IMAP-IGS/IGS-SI)
 A **Swarm Intelligence (SI)** instantiation of the IMAP-IGS framework, targeting graph-based and routing optimisation problems. Implements the Preferendus method via Ant Colony Optimisation (ACO), with the same preference-aggregation interface as the GA-based solvers. Applicable to directed graph problems such as route planning and Markov-chain modelling.
 
-### [RL`](https://github.com/TUDelft-IMAP-IGS/IGS-RL)
+### [`IGS-RL`](https://github.com/TUDelft-IMAP-IGS/IGS-RL)
 A reinforcement-learning instantiation of the IMAP framework that uses PPO-based learning to optimise sequential decision-making under multiple preference criteria. It applies the same preference-aggregation logic to train policies for multi-criteria and constrained decision environments.
 
 ---
