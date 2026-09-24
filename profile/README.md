@@ -6,7 +6,7 @@
 
 ## About
 
-This is the home of **Preferendus** and it's method and solvers - a collection of preference-based optimisation solvers using the IMAP (Integrative Maximisation of Aggregated Preferences) method. The page hosts four repositories, each a distinct IGS instantiation targeting different problem classes: **IGS-GA-I**, **IGS-GA-II**, **IGS-BRKGA**, and **IGS-SI**.
+This is the home of Preferendus and its methods and solvers, a collection of preference-based optimisation solvers built on the IMAP (Integrative Maximisation of Aggregated Preferences) method. The page hosts five repositories, each constituting a distinct IMAP-IGS (Integrated General Solver) instantiation. Four repositories employ metaheuristic search instantiations for different optimisation problem classes: IGS-GA-I, IGS-GA-II, IGS-BRKGA, and IGS-SI. The fifth, IGS-RL, constitutes a reinforcement-learning instantiation that leverages PPO-based Reinforcement Learning (RL) as an IMAP-guided sequential-learning approach for multi-criteria decision-making (MCDM).
 
 Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
 
@@ -25,6 +25,9 @@ A **Biased Random-Key Genetic Algorithm (BRKGA)** instantiation of the IMAP-IGS 
 
 ### [`IGS-SI`](https://github.com/TUDelft-IMAP-IGS/IGS-SI)
 A **Swarm Intelligence (SI)** instantiation of the IMAP-IGS framework, targeting graph-based and routing optimisation problems. Implements the Preferendus method via Ant Colony Optimisation (ACO), with the same preference-aggregation interface as the GA-based solvers. Applicable to directed graph problems such as route planning and Markov-chain modelling.
+
+### [RL`](https://github.com/TUDelft-IMAP-IGS/IGS-RL)
+A reinforcement-learning instantiation of the IMAP framework that uses PPO-based learning to optimise sequential decision-making under multiple preference criteria. It applies the same preference-aggregation logic to train policies for multi-criteria and constrained decision environments.
 
 ---
 
