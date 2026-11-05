@@ -6,7 +6,11 @@
 
 ## About
 
-This is the home of Preferendus and its methods and solvers, a collection of preference-based optimisation solvers built on the IMAP (Integrative Maximisation of Aggregated Preferences) method. The page hosts five repositories, each constituting a distinct IMAP-IGS (Integrated General Solver) instantiation. Four repositories employ metaheuristic search instantiations for different optimisation problem classes: IGS-GA-I, IGS-GA-II, IGS-BRKGA, and IGS-SI. The fifth, IGS-RL, constitutes a reinforcement-learning instantiation that leverages PPO-based Reinforcement Learning (RL) as an IMAP-guided sequential-learning approach for multi-criteria decision-making (MCDM).
+Preferendus-IMAP-IGS is a multidimensional, multi-objective design-decision optimisation (MODO) platform implementing IMAP 
+(Integrative Maximization of Aggregated Preferences) through the IGS Solver Family and the A-FINE Aggregator. It 
+integrates multi-actor preference functions, multi-level system performance models, and best-fit solver algorithms 
+to explore complex design spaces and discover preference-consistent, best-fit-for-common-purpose solutions 
+using A-FINE’s unique decision-valid preference aggregation. 
 
 Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
 
