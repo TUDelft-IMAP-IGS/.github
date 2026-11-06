@@ -12,7 +12,7 @@ integrates multi-actor preference functions, multi-level system performance mode
 to explore complex design spaces and discover preference-consistent, best-fit-for-common-purpose solutions 
 using A-FINE’s unique decision-valid preference aggregation. 
 
-A general description of the Preferendus can be found on [github.com/Preferendusl](https://github.com/Preferendus). Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
+A general description of the Preferendus can be found on [Preferendusl](https://github.com/Preferendus). Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
 
 ---
 
