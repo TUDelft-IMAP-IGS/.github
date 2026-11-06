@@ -37,7 +37,7 @@ A reinforcement-learning instantiation of the IMAP framework that uses PPO-based
 
 ## Framework Overview
 
-A general description of the Preferendus can be found on [github.com/Preferendusl](.https://github.com/Preferendus). A detailed description of all principles of IMAP-IGS, the full terminology and formal definitions can be found at [`IMAP-IGS_overview.pdf`](./IMAP-IGS_overview.pdf).
+A general description of the Preferendus can be found on [github.com/Preferendusl](https://github.com/Preferendus). A detailed description of all principles of IMAP-IGS, the full terminology and formal definitions can be found at [`IMAP-IGS_overview.pdf`](./IMAP-IGS_overview.pdf).
 
 For an overview of how IMAP design-decision optimisation relates to other optimisation methods MILP and MIP, see the landscape figure below included in this repository. How IMAP relates to the min-max optimisation method can be found in (Wolfert, 2023 - [odesys.nl](https://odesys.nl/))
 
